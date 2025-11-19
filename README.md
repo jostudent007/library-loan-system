@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Projeto da disciplina de Boas Práticas de Programação. O objetivo é criar um sistema de gerenciamento de empréstimos de biblioteca, 
-com foco na aplicação de princípios de design como **SOLID** e **Clean Code** para garantir um software manutenível, testável e desacoplado.
+com foco na aplicação de princípios de design como **SOLID** e **Clean Code** para garantir um software manutenível, testável e desacoplado. 
 
 ---
 
