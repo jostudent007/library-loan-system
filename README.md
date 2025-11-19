@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 Sistema de Gerenciamento de Biblioteca (Library Loan System)
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java)
