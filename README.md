@@ -104,5 +104,4 @@ Este projeto é uma aplicação de console (CLI).
     ```
 # library-loan-system
 =======
-Projeto feito para a disciplina de Lógica aplicada a engenharia de software, no qual realizamos a documentação em JML de um projeto de uma biblioteca feito em java.
->>>>>>> 4f09c24c9bcfdcc3976c5f48a5533ba752ae478f
+
