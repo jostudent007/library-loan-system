@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Sistema de Gerenciamento de Biblioteca (Library Loan System)
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java)
@@ -103,3 +104,6 @@ Este projeto é uma aplicação de console (CLI).
     java -jar target/library-loan-system-1.0-SNAPSHOT.jar
     ```
 # library-loan-system
+=======
+Projeto feito para a disciplina de Lógica aplicada a engenharia de software, no qual realizamos a documentação em JML de um projeto de uma biblioteca feito em java.
+>>>>>>> 4f09c24c9bcfdcc3976c5f48a5533ba752ae478f
