@@ -9,11 +9,9 @@ com foco na aplicação de princípios de design como **SOLID** e **Clean Code**
 
 ---
 
-## 🧑‍💻 Equipe
+## 🧑‍💻 Autor
 
-* [Daniel Coelho dos Santos](https://github.com/dcoelhosantos)
-* [Joadson Ferreira do Nascimento](https://github.com/jostudent007)
-* [Nathan Medeiros Clemente](https://github.com/nathanmedeirosclemente)
+* [Joadson Ferreira do Nascimento]
 
 ## ✨ Funcionalidades
 
