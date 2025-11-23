@@ -1,0 +1,9 @@
+# Arquivos compilados do Maven
+target/
+
+# Configurações de IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
